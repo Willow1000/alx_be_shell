@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x help
+chmod u+x help
